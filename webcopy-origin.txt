@@ -1,0 +1,320 @@
+Uri: https://cdn.freelogovectors.net/wp-content/uploads/2023/05/phantom-logo-freelogovectors.net_.png
+File Name: C:\Downloaded Web Sites\gumblecat.com\wp-content\uploads\2023\05\phantom-logo-freelogovectors.net_.png
+Content Type: image/png
+
+Uri: https://cdn3d.iconscout.com/3d/premium/thumb/solana-10229260-8263859.png
+File Name: C:\Downloaded Web Sites\gumblecat.com\3d\premium\thumb\solana-10229260-8263859.png
+Content Type: image/png
+
+Uri: https://fonts.cdnfonts.com/css/gloria-hallelujah
+File Name: C:\Downloaded Web Sites\gumblecat.com\css\gloria-hallelujah
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/css/pf-ronda-seven
+File Name: C:\Downloaded Web Sites\gumblecat.com\css\pf-ronda-seven
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/css/shaky-hand-some-comic
+File Name: C:\Downloaded Web Sites\gumblecat.com\css\shaky-hand-some-comic
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/s/15535/GloriaHallelujah.woff
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\15535\GloriaHallelujah.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/27510/Shaky Hand Some Comic.woff
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\27510\Shaky Hand Some Comic.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/27510/Shaky Hand Some Comic_3D.woff
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\27510\Shaky Hand Some Comic_3D.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/27510/Shaky Hand Some Comic_bold.woff
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\27510\Shaky Hand Some Comic_bold.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/7352/pf_ronda_seven.woff
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\7352\pf_ronda_seven.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/7352/pf_ronda_seven_bold.woff
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\7352\pf_ronda_seven_bold.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.2
+File Name: C:\Downloaded Web Sites\gumblecat.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://gumblecat.com/
+File Name: C:\Downloaded Web Sites\gumblecat.com\index.htm
+Content Type: text/html
+
+Uri: https://gumblecat.com/1.gif
+File Name: C:\Downloaded Web Sites\gumblecat.com\1.gif
+Content Type: image/gif
+
+Uri: https://gumblecat.com/1.png
+File Name: C:\Downloaded Web Sites\gumblecat.com\1.png
+Content Type: image/png
+
+Uri: https://gumblecat.com/css/all.min.css
+File Name: C:\Downloaded Web Sites\gumblecat.com\css\all.min.css
+Content Type: text/css
+
+Uri: https://gumblecat.com/css/button-animations.min.css
+File Name: C:\Downloaded Web Sites\gumblecat.com\css\button-animations.min.css
+Content Type: text/css
+
+Uri: https://gumblecat.com/css/frontend-lite.min.css
+File Name: C:\Downloaded Web Sites\gumblecat.com\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://gumblecat.com/css/frontend.min.css
+File Name: C:\Downloaded Web Sites\gumblecat.com\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://gumblecat.com/css/global.css
+File Name: C:\Downloaded Web Sites\gumblecat.com\css\global.css
+Content Type: text/css
+
+Uri: https://gumblecat.com/css/header-footer.min.css
+File Name: C:\Downloaded Web Sites\gumblecat.com\css\header-footer.min.css
+Content Type: text/css
+
+Uri: https://gumblecat.com/css/post-20159.css
+File Name: C:\Downloaded Web Sites\gumblecat.com\css\post-20159.css
+Content Type: text/css
+
+Uri: https://gumblecat.com/css/post-6.css
+File Name: C:\Downloaded Web Sites\gumblecat.com\css\post-6.css
+Content Type: text/css
+
+Uri: https://gumblecat.com/css/style.min.css
+File Name: C:\Downloaded Web Sites\gumblecat.com\css\style.min.css
+Content Type: text/css
+
+Uri: https://gumblecat.com/css/swiper.min.css
+File Name: C:\Downloaded Web Sites\gumblecat.com\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://gumblecat.com/css/text-animations.min.css
+File Name: C:\Downloaded Web Sites\gumblecat.com\css\text-animations.min.css
+Content Type: text/css
+
+Uri: https://gumblecat.com/css/theme.min.css
+File Name: C:\Downloaded Web Sites\gumblecat.com\css\theme.min.css
+Content Type: text/css
+
+Uri: https://gumblecat.com/css/wpr-link-animations.min.css
+File Name: C:\Downloaded Web Sites\gumblecat.com\css\wpr-link-animations.min.css
+Content Type: text/css
+
+Uri: https://gumblecat.com/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\gumblecat.com\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gumblecat.com/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\fonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://gumblecat.com/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\gumblecat.com\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://gumblecat.com/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\gumblecat.com\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://gumblecat.com/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\gumblecat.com\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gumblecat.com/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\fonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://gumblecat.com/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\gumblecat.com\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://gumblecat.com/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\gumblecat.com\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://gumblecat.com/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\gumblecat.com\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gumblecat.com/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\gumblecat.com\fonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://gumblecat.com/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\gumblecat.com\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://gumblecat.com/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\gumblecat.com\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://gumblecat.com/images/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\gumblecat.com\images\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://gumblecat.com/images/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\gumblecat.com\images\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://gumblecat.com/images/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\gumblecat.com\images\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://gumblecat.com/js/core.min.js
+File Name: C:\Downloaded Web Sites\gumblecat.com\js\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://gumblecat.com/js/frontend-modules.min.js
+File Name: C:\Downloaded Web Sites\gumblecat.com\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://gumblecat.com/js/frontend.min.js
+File Name: C:\Downloaded Web Sites\gumblecat.com\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://gumblecat.com/js/frontend.min_1.js
+File Name: C:\Downloaded Web Sites\gumblecat.com\js\frontend.min_1.js
+Content Type: application/x-javascript
+
+Uri: https://gumblecat.com/js/hello-frontend.min.js
+File Name: C:\Downloaded Web Sites\gumblecat.com\js\hello-frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://gumblecat.com/js/jarallax.min.js
+File Name: C:\Downloaded Web Sites\gumblecat.com\js\jarallax.min.js
+Content Type: application/x-javascript
+
+Uri: https://gumblecat.com/js/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\gumblecat.com\js\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://gumblecat.com/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\gumblecat.com\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://gumblecat.com/js/modal-popups.min.js
+File Name: C:\Downloaded Web Sites\gumblecat.com\js\modal-popups.min.js
+Content Type: application/x-javascript
+
+Uri: https://gumblecat.com/js/parallax.min.js
+File Name: C:\Downloaded Web Sites\gumblecat.com\js\parallax.min.js
+Content Type: application/x-javascript
+
+Uri: https://gumblecat.com/js/particles.js
+File Name: C:\Downloaded Web Sites\gumblecat.com\js\particles.js
+Content Type: application/x-javascript
+
+Uri: https://gumblecat.com/js/waypoints.min.js
+File Name: C:\Downloaded Web Sites\gumblecat.com\js\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://gumblecat.com/js/webpack.runtime.min.js
+File Name: C:\Downloaded Web Sites\gumblecat.com\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://gumblecat.com/js/wp-emoji-release.min.js
+File Name: C:\Downloaded Web Sites\gumblecat.com\js\wp-emoji-release.min.js
+Content Type: application/x-javascript
+
+Uri: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/77d27377-311f-4e4e-ab9b-39ef7c97f66a/dey7x5o-b1f7cd66-31e0-495d-b2da-ee486c101dbc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc3ZDI3Mzc3LTMxMWYtNGU0ZS1hYjliLTM5ZWY3Yzk3ZjY2YVwvZGV5N3g1by1iMWY3Y2Q2Ni0zMWUwLTQ5NWQtYjJkYS1lZTQ4NmMxMDFkYmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7pO4yuwCihtJYD163hKrXv6Fmjfp-nX9akxo9Aq4wgU
+File Name: C:\Downloaded Web Sites\gumblecat.com\f\77d27377-311f-4e4e-ab9b-39ef7c97f66a\dey7x5o-b1f7cd66-31e0-495d-b2da-ee486c101dbc.png
+Content Type: image/png
+
+Uri: https://thegivingblock.com/wp-content/uploads/2022/04/Raydium-RAY-coin.png
+File Name: C:\Downloaded Web Sites\gumblecat.com\wp-content\uploads\2022\04\Raydium-RAY-coin.png
+Content Type: image/png
+
